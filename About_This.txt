@@ -1,0 +1,23 @@
+This Is Python Packages in which we insert Modules of different types
+that are used later in our python files where we need for importing modules
+
+1.Dir or Folder Name
+This dir have a name of CalculatingModules => Basicly it is name of package we can
+create a package with specific name that clear the purpose of package
+
+2.File name in this dir
+In this dir there is a file of name "__init.py__" => it is name of modules location
+basicly it give the information to python intrepreter that this is a location of
+packages which contain different modules.
+
+3.Use of packages
+The Use of these packges in our python files are same as we import modules in files
+
+for eg:-
+import CalculatingModules
+
+modules_use.function_use
+
+
+
+{Muhammad Bilal Khan}
